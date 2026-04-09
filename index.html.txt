@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verbrechen der Islamischen Republik Iran</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #0f0f0f; color: #eee; margin: 0; padding: 0; line-height: 1.6; }
+        header { background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://source.unsplash.com/random/1600x900/?protest,iran') center/cover; padding: 4rem 1rem; text-align: center; }
+        h1 { font-size: 2.8rem; margin: 0; color: #ff2222; }
+        .warning { background: #400; padding: 1.2rem; text-align: center; font-weight: bold; font-size: 1.1rem; }
+        section { max-width: 1000px; margin: 2.5rem auto; padding: 0 1.5rem; }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+        .card { background: #1a1a1a; padding: 1.8rem; border-radius: 12px; border: 1px solid #600; text-align: center; }
+        .card h3 { color: #ff4444; font-size: 1.6rem; margin: 0 0 1rem 0; }
+        img, video { max-width: 100%; border-radius: 8px; margin: 1rem 0; }
+        a { color: #ffcc00; text-decoration: underline; }
+        footer { text-align: center; padding: 3rem; background: #000; font-size: 0.95rem; }
+        button { background: #c00; color: white; border: none; padding: 1rem 2rem; font-size: 1.2rem; border-radius: 8px; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>VERBRECHEN DER ISLAMISCHEN REPUBLIK IRAN</h1>
+        <p style="font-size:1.5rem; margin:1rem 0;">Dokumentation von Verbrechen gegen die Menschlichkeit</p>
+        <p style="font-size:1.3rem;">Wie die Seite von Netanyahu — Scannen und die Wahrheit sehen</p>
+    </header>
+
+    <div class="warning">
+        ⚠️ ACHTUNG: EXTREM GRAFISCHER INHALT (Hinrichtungen, Massaker, Folter). Nur für Erwachsene über 18 Jahren. Betrachten auf eigene Verantwortung.
+    </div>
+
+    <section>
+        <h2 style="text-align:center; font-size:2rem;">Schockierende Statistiken 2025–2026</h2>
+        
+        <div class="stats">
+            <div class="card">
+                <h3>Über 1.000 Hinrichtungen 2025</h3>
+                <p>Höchste Rate seit Jahrzehnten — bis September bereits über 1.000. Fortsetzung 2026.</p>
+                <small>Quelle: Amnesty International</small>
+            </div>
+            <div class="card">
+                <h3>Massaker bei Protesten Dez. 2025 / Jan. 2026</h3>
+                <p>Tausende Tote (bestätigt über 7.000, Schätzungen bis 30.000+). Internet komplett abgeschaltet.</p>
+                <small>Quellen: HRANA, Amnesty International, Human Rights Watch</small>
+            </div>
+            <div class="card">
+                <h3>Massaker 1988</h3>
+                <p>Ca. 5.000 politische Gefangene in wenigen Wochen hingerichtet — andauerndes Verbrechen gegen die Menschlichkeit.</p>
+                <small>Quelle: Amnesty International</small>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Massaker an Demonstranten — Januar 2026</h2>
+        <p>Seit dem 28. Dezember 2025 kam es zu landesweiten Protesten. Die Sicherheitskräfte (IRGC, Basij, Polizei) haben mit scharfer Munition und Schrotmunition auf Demonstranten geschossen. Am 8. und 9. Januar fanden die schlimmsten Massaker statt. Tausende wurden getötet, Zehntausende verletzt oder verhaftet.</p>
+        <p><strong>Quellen:</strong> <a href="https://www.amnesty.org" target="_blank">Amnesty International (Januar 2026)</a> | <a href="https://www.hrw.org" target="_blank">Human Rights Watch</a></p>
+        
+        <!-- Hier kannst du später Embed-Video von YouTube einfügen -->
+    </section>
+
+    <section>
+        <h2>Massenhinrichtungen</h2>
+        <p>Im Jahr 2025 wurden über 1.000 Menschen hingerichtet — viele wegen Teilnahme an Protesten, politischer Opposition oder Drogen-Delikten. Die Hinrichtungen gehen 2026 weiter, inklusive Schnellverfahren und Hinrichtungen von Minderjährigen.</p>
+    </section>
+
+    <section>
+        <h2>Das Massaker von 1988</h2>
+        <p>Auf Befehl Khomeinis wurden etwa 5.000 politische Gefangene in geheimen Hinrichtungen getötet und in Massengräbern verscharrt. Die Familien suchen bis heute nach den Gräbern.</p>
+    </section>
+
+    <section>
+        <h2>Unterdrückung von Frauen, Minderheiten und Opposition</h2>
+        <p>Mord an Mahsa Amini, Peitschenstrafen wegen Hijab, Folter in Gefängnissen, Verfolgung von Kurden, Belutschen, Bahá'í und LGBTQ+.</p>
+    </section>
+
+    <section>
+        <h2>Verifizierte Quellen</h2>
+        <ul>
+            <li>Amnesty International – Berichte zu Iran 2025/2026</li>
+            <li>Human Rights Watch – World Report & Iran Updates</li>
+            <li>Iran Human Rights (IHR)</li>
+            <li>HRANA – Human Rights Activists News Agency</li>
+            <li>UN Special Rapporteur on Human Rights in Iran</li>
+        </ul>
+    </section>
+
+    <section style="text-align:center;">
+        <button onclick="window.scrollTo({top: document.body.scrollHeight, behavior: 'smooth'})">Diese Seite teilen</button>
+        <p style="margin-top:2rem; font-size:1.4rem; color:#ff4444;">
+            <strong>Islamische Republik = Verbrecherregime</strong><br>
+            #FrauLebenFreiheit #IranRevolution
+        </p>
+    </section>
+
+    <footer>
+        <p>Erstellt von iranischen Aktivisten — April 2026<br>
+        Diese Seite dient der Aufklärung. Teilen Sie die Wahrheit.</p>
+    </footer>
+
+</body>
+</html>
